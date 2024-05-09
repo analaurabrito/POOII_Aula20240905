@@ -1,0 +1,11 @@
+C:\DevC\Aula20240509SelecaoEstados\bin\Debug\Aula20240509SelecaoEstados.exe.config
+C:\DevC\Aula20240509SelecaoEstados\bin\Debug\Aula20240509SelecaoEstados.exe
+C:\DevC\Aula20240509SelecaoEstados\bin\Debug\Aula20240509SelecaoEstados.pdb
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.csproj.AssemblyReference.cache
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.Form1.resources
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.Properties.Resources.resources
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.csproj.GenerateResource.cache
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.exe
+C:\DevC\Aula20240509SelecaoEstados\obj\Debug\Aula20240509SelecaoEstados.pdb
